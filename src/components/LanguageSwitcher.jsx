@@ -1,0 +1,23 @@
+{
+  "appName": "CabLink Lesotho",
+  "navHome": "Hae",
+  "navBooking": "Khibela Tsela",
+  "navDrivers": "Bakhanni",
+  "navLogin": "Kena",
+  "heroBadge": "Lithekiso tse tšepahalang Lesotho",
+  "heroTitle": "Tsamaea ka bohlale Lesotho",
+  "heroSubtitle": "Bapisa litefiso, kopa bese e tšepahalang, 'me u tsamaee ka boits'epo.",
+  "bookNow": "Kopa Hona Joale",
+  "searchRide": "Batla Tsela",
+  "pickup": "Sebaka sa ho Qala",
+  "destination": "Sebaka sa ho Fihla",
+  "time": "Nako e Khethiloeng",
+  "langLabel": "Puo",
+  "serviceTitle": "Hobaneng u khetha CabLink?",
+  "service1Title": "Kopano e Potlakileng",
+  "service1Text": "Kopa bese ka metsotso 'me u fumane lintlafatso tsa mokhanni kapele.",
+  "service2Title": "Pheliso ea Sebaka",
+  "service2Text": "Ikopanye le bakhanni ba tšepahalang ho pholletsa le Maseru, Roma le litsela tse kholo.",
+  "service3Title": "Sesotho se Loketse",
+  "service3Text": "Setšhaba se tšehetsa Senyesemane le Sesotho bakeng sa ho fihlella habonolo."
+}

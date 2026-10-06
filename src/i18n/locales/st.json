@@ -1,0 +1,23 @@
+{
+  "appName": "CabLink Lesotho",
+  "navHome": "Home",
+  "navBooking": "Book Ride",
+  "navDrivers": "Drivers",
+  "navLogin": "Login",
+  "heroBadge": "Trusted rides across Lesotho",
+  "heroTitle": "Ride smarter in Lesotho",
+  "heroSubtitle": "Compare fares, book trusted rides, and travel with confidence.",
+  "bookNow": "Book Now",
+  "searchRide": "Search Ride",
+  "pickup": "Pickup Location",
+  "destination": "Destination",
+  "time": "Preferred Time",
+  "langLabel": "Language",
+  "serviceTitle": "Why choose CabLink?",
+  "service1Title": "Instant Booking",
+  "service1Text": "Book a ride in seconds and receive driver updates in real time.",
+  "service2Title": "Local Coverage",
+  "service2Text": "Connect with trusted drivers across Maseru, Roma, and major routes.",
+  "service3Title": "Sesotho Ready",
+  "service3Text": "The platform supports English and Sesotho for inclusive user access."
+}
